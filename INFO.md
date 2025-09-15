@@ -1,3 +1,1 @@
-new text
-experiment with amend
-new data
+second line in INFO.md
