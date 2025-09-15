@@ -5,3 +5,4 @@ Hello, how are you?
 >>>>>>> parent of 9bb7af9 (remove README.md)
 no code no pain
 experiment with amend
+new line in README.md
